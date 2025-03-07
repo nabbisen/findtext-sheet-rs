@@ -1,14 +1,14 @@
 [package]
 name = "findtext_sheet"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 description = "Search text in SpreadSheet"
 authors = ["nabbisen <nabbisen@scqr.net>"]
 license = "Apache-2.0"
 
-categories = ["development-tools", "command-line-utilities", "parsing", "data-structures"]
-keywords = ["excel", "xlsx", "compare", "diff", "cli"]
+categories = ["development-tools", "command-line-utilities", "text-processing", "data-structures"]
+keywords = ["excel", "xlsx", "cli", "search", "text"]
 repository = "https://github.com/nabbisen/findtext-sheet-rs"
 readme = "README.md"
 rust-version = "1.78.0"
