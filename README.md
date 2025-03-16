@@ -1,9 +1,9 @@
 # Find Text Sheet
 
 [![crates.io](https://img.shields.io/crates/v/findtext_sheet?label=latest)](https://crates.io/crates/findtext_sheet)
-[![Documentation](https://docs.rs/findtext_sheet/badge.svg?version=latest)](https://docs.rs/findtext_sheet/latest)
-[![Dependency Status](https://deps.rs/crate/findtext_sheet/latest/status.svg)](https://deps.rs/crate/findtext_sheet/latest)
-[![Releases Workflow](https://github.com/nabbisen/findtext-sheet-rs/actions/workflows/release.yml/badge.svg)](https://github.com/nabbisen/findtext-sheet-rs/actions/workflows/)
+[![Documentation](https://docs.rs/findtext_sheet/badge.svg?version=latest)](https://docs.rs/findtext_sheet)
+[![Dependency Status](https://deps.rs/crate/findtext_sheet/latest/status.svg)](https://deps.rs/crate/findtext_sheet)
+[![Releases Workflow](https://github.com/nabbisen/findtext-sheet-rs/actions/workflows/release-executable.yaml/badge.svg)](https://github.com/nabbisen/findtext-sheet-rs/actions/workflows/release-executable.yaml)
 [![License](https://img.shields.io/github/license/nabbisen/findtext-sheet-rs)](https://github.com/nabbisen/findtext-sheet-rs/blob/main/LICENSE)
 
 ## Summary
